@@ -1,9 +1,10 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="badge.webp" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   Hello, World!<br>
   Me chamo Nicolly, trabalho como comissária de voo e estou em busca de uma oportunidade na área de tecnologia.
   Buscando conhecimento para ser uma Desenvolvedora <strong>Full Stack</strong>.<br>
+  Aluna Oracle One.
 </p>
 
 **🎓 Estudos**
