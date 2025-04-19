@@ -1,4 +1,6 @@
-<img src="badge.webp" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="badge1.webp" alt="ilustração de um computador Oracle" min-width="50px" max-width="200px" width="200px" align="right">
+<img src="badge.webp" alt="ilustração de uma casa em tons de verde Oracle" min-width="50px" max-width="200px" width="200px" align="right">
+
 
 <p align="left"> 
   Hello, World!<br>
