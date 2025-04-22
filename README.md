@@ -5,7 +5,7 @@
 <p align="left"> 
   Hello, World!<br>
   Me chamo Nicolly, trabalho como comissária de voo e estou em busca de uma oportunidade na área de tecnologia.
-  Buscando conhecimento para ser uma Desenvolvedora <strong>Full Stack</strong>.<br>
+  Buscando conhecimento para ser uma Desenvolvedora.<br>
   Aluna Oracle One.
 </p>
 
