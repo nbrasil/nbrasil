@@ -3,9 +3,7 @@
 
 
 <p align="left"> 
-  Hello, World!<br>
-  Me chamo Nicolly, trabalho como comissária de voo e estou em busca de uma oportunidade na área de tecnologia.
-  Aluna Oracle One.
+  Hello, World!
 </p>
 
 **🎓 Estudos**
