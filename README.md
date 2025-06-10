@@ -1,5 +1,6 @@
 <img src="badge1.webp" alt="ilustração de um computador Oracle" min-width="50px" max-width="200px" width="200px" align="right">
 <img src="badge.webp" alt="ilustração de uma casa em tons de verde Oracle" min-width="50px" max-width="200px" width="200px" align="right">
+<img src="badge2.webp" alt="ilustração de um robô Oracle" min-width="50px" max-width="200px" width="200px" align="right">
 
 
 <p align="left"> 
