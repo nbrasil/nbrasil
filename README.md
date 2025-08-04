@@ -6,7 +6,7 @@
 <img src="badge.webp" alt="ilustração de uma casa em tons de verde Oracle" min-width="50px" max-width="200px" width="100px" align="right">
 <img src="badge2.webp" alt="ilustração de um robô Oracle" min-width="50px" max-width="200px" width="100px" align="right">
 <img src="last-badge.webp" alt="ilustração de um robô Oracle" min-width="50px" max-width="200px" width="100px" align="right">
-<br><br><br><br><br><br><br><br><br><br>
+
 
 **🖥️ Linguagens:**
 
